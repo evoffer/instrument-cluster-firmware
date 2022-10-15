@@ -2,12 +2,6 @@
 
 ## Update Note for Round Instrument Cluster
 
-### V1.4.26.101501R (20221015)
-1、Fix: High Beam Display is inaccurate after the car is update to v11.0 (2022.36) or above.
-
-### V1.4.25.1103Y (20211103)
-1. Fix: Screen black out issue.
-
 ### V1.4.25.0812R (20210830)
 1. Changed the operation logic to open the Setting Interface to avoid activating the voice command at the same time.
 2. Fix: Setting may not be saved when display mode is selected to AUTO. 
@@ -17,6 +11,12 @@
 
 ### V1.4.25.01030 (20211030)
 1. Fix: Screen cannot be shut down.
+
+### V1.4.25.1103Y (20211103)
+1. Fix: Screen black out issue.
+
+### V1.4.26.101501R (20221015)
+1、Fix: High Beam Display is inaccurate after the car is update to v11.0 (2022.36) or above.
 
 ## Software Update
 
