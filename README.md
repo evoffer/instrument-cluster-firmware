@@ -1,6 +1,6 @@
-# Round Instrument Cluster Firmware
+# Instrument Cluster Firmware
 
-## Update Note
+## Update Note for Round Instrument Cluster
 
 ### V1.4.26.101501R (20221015)
 1、Fix: High Beam Display is inaccurate after the car is update to v11.0 (2022.36) or above.
