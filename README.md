@@ -16,7 +16,7 @@
 1. Fix: Screen black out issue.
 
 ### V1.4.26.101501R (20221015)
-1、Fix: High Beam Display is inaccurate after the car is update to v11.0 (2022.36) or above.
+1、Fix: High Beam Display is inaccurate after the car is update to v11.0 (2022.28) or above.
 
 ## Software Update
 
